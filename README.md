@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there, I'm nyraa
+I'm nyraa, a third-year university student majoring in computer science in Taiwan.
 
-## My GitHub Stats
+
+## My GitHub stats
 
 <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyraa&theme=transparent&cache_seconds=1800&hide_border=true&layout=compact&langs_count=6&card_width=400" alt="GitHub top-langs Card" />
