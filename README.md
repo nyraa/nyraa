@@ -20,5 +20,5 @@ I'm nyraa, a third-year university student majoring in computer science in Taiwa
 
 <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyraa&theme=transparent&cache_seconds=1800&hide_border=true&layout=compact&langs_count=6&card_width=400" alt="GitHub top-langs Card" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nyraa&theme=transparent&cache_seconds=1800&hide_border=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&locale=en&show=&number_format=long&rank_icon=default" alt="GitHub stats Card" />
+    <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nyraa&theme=transparent&cache_seconds=1800&hide_border=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&locale=en&show=&number_format=long&rank_icon=default" alt="GitHub stats Card" />-->
 </p>
